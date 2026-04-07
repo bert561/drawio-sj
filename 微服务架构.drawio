@@ -17,7 +17,7 @@
           <mxGeometry height="40" width="820" y="562" as="geometry" />
         </mxCell>
         <mxCell id="8blE8pK7_pJrZ7b3me8F-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="50" width="624" x="70" y="504" as="geometry" />
+          <mxGeometry height="50" width="640" x="70" y="504" as="geometry" />
         </mxCell>
         <mxCell id="8blE8pK7_pJrZ7b3me8F-6" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;div&gt;&lt;b&gt;技术&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;中台&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="50" x="70" y="514" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry height="60" width="50" x="70" y="162" as="geometry" />
         </mxCell>
         <mxCell id="8blE8pK7_pJrZ7b3me8F-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;shadow=1;opacity=30;container=0;" value="" vertex="1">
-          <mxGeometry height="123" width="246" x="444" y="147" as="geometry" />
+          <mxGeometry height="123" width="266" x="444" y="147" as="geometry" />
         </mxCell>
         <mxCell id="8blE8pK7_pJrZ7b3me8F-27" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" value="&lt;b style=&quot;background-color: initial;&quot;&gt;场景&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;服务&lt;/b&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="50" x="444" y="177" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry height="30" width="50" x="70" y="373.5" as="geometry" />
         </mxCell>
         <mxCell id="8blE8pK7_pJrZ7b3me8F-54" parent="1" style="rounded=0;whiteSpace=wrap;html=1;container=0;fillColor=none;" value="" vertex="1">
-          <mxGeometry height="184" width="177" x="517" y="310" as="geometry" />
+          <mxGeometry height="184" width="193" x="517" y="310" as="geometry" />
         </mxCell>
         <mxCell id="8blE8pK7_pJrZ7b3me8F-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;container=0;dashed=1;" value="数据服务中心" vertex="1">
           <mxGeometry height="28" width="95" x="567.52" y="358.20000000000005" as="geometry" />
@@ -196,7 +196,7 @@
         <mxCell id="8blE8pK7_pJrZ7b3me8F-65" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#B3B3B3;fontColor=#B3B3B3;container=0;dashed=1;" value="安全中心" vertex="1">
           <mxGeometry height="28" width="68" x="239" y="372.5" as="geometry" />
         </mxCell>
-        <mxCell id="8blE8pK7_pJrZ7b3me8F-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;container=0;dashed=1;" value="基础服务中心" vertex="1">
+        <mxCell id="8blE8pK7_pJrZ7b3me8F-66" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;container=0;dashed=1;" value="基础能力中心" vertex="1">
           <mxGeometry height="27" width="96" x="163" y="453.5" as="geometry" />
         </mxCell>
         <mxCell id="8blE8pK7_pJrZ7b3me8F-67" parent="1" style="rounded=1;whiteSpace=wrap;html=1;aspect=fixed;container=0;" value="L3" vertex="1">
